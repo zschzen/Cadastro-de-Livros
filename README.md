@@ -6,4 +6,4 @@
     - String de conexão configurável em [appsettings.json]
 
 [//]: # ( Links )
-[appsettings.json]: <./blob/main/appsettings.json>
+[appsettings.json]: <./appsettings.json>
